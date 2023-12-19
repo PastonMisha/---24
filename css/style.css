@@ -1,0 +1,486 @@
+.site {
+    background-color: peachpuff;
+    overflow: hidden;
+    padding: 252px 0 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    width: 100%;
+    height: 100%;
+  }
+  .relative-wrapper-two {
+    margin-bottom: 188px;
+    margin-left: 52px;
+    position: relative;
+    width: 50%;
+  }
+  .flex-wrapper-six {
+    position: relative;
+  }
+  .sajt-nachinajuschego-verstal-schika {
+    height: 249px;
+    width: 616px;
+    color: black;
+    display: flex;
+    align-items: center;
+    position: relative;
+    font-size: 50px;
+    margin-left: -100px;
+    
+  }
+  .arrow-1 {
+    width: 405px;
+    height: 100px;
+    position: absolute;
+    left: 4px;
+    top: 150px;
+    margin-left: -100px;
+    
+  }
+  .group-4 {
+    padding: 0 0 60px;
+    display: flex;
+    align-items: flex-start;
+    position: absolute;
+    right: -100px;
+    bottom: -52px;
+  }
+  .flex-wrapper-one {
+    background-color: black;
+    border-radius: 9px;
+    padding: 6px 8px 7px;
+    position: relative;
+    
+  }
+  .rectangle-8 {
+    width: 343px;
+    height: 247px;
+    border-radius: 12px;
+    
+    
+  }
+  .rectangle-9 {
+    width: 22px;
+    height: 23px;
+    background-color: black;
+    position: absolute;
+    left: 172px;
+    top: 253px;
+    
+  }
+  .rectangle-10 {
+    width: 91px;
+    height: 11px;
+    background-color: black;
+    border-radius: 9px;
+    position: absolute;
+    left: 137px;
+    top: 270px;
+    
+  }
+  .flex-wrapper-eight {
+    background-size: 100% 100%;
+    background-position: center;
+    background-color:#012008;
+    margin-bottom: 61px;
+    padding: 163px 94px 162px 100%;
+    display: flex;
+    align-items: center;
+  }
+  .v-svoih-rabotah-ja-ispol-zoval {
+    height: 212px;
+    width: 458px;
+    color: white;
+    display: flex;
+    align-items: center;
+    margin-left: 250px;
+    margin-top: auto;
+    align-items: center;
+    font-size: 50px;
+  }
+  .icons8-figma-192-1-1 {
+    width: 158px;
+    height: 167px;
+    margin-right: 200px;
+  }
+  .icons8-visual-studio-192-1 {
+    width: 170px;
+    height: 167px;
+    margin-right: 2000px;
+  }
+  .jazyki-programmirovanija {
+    height: 87px;
+    width: 708px;
+    color: black;
+    display: flex;
+    align-items: center;
+    margin-bottom: 61px;
+    margin-left: 0px;
+    flex-direction: column;
+    font-size: 50px;
+  }
+  .flex-wrapper-eleven {
+    margin-bottom: 30px;
+    display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+  
+	align-items: stretch;
+	align-content: center;
+    width: 100%;
+    
+  }
+  .html-1 {
+    width: 153px;
+    height: 153px;
+
+  }
+  
+  .html-2 {
+    width: 153px;
+    height: 153px;
+    
+
+  }
+
+  .flex-wrapper-nine {
+    background-size: 100% 100%;
+    background-position: center;
+    background-color:#012008;
+    margin-bottom: 29px;
+    padding: 155px 65px 160px 100%;
+    display: flex;
+    flex-direction: column;
+
+  }
+  .primery-rabot {
+    height: 77px;
+    width: 428px;
+    color: white;
+    display: flex;
+    align-items: center;
+    margin-bottom: 58px;
+ 
+    align-items: center;
+    font-size: 50px;
+  }
+  .flex-wrapper-thirteen {
+    display: flex;
+    align-items: flex-start;
+    
+  }
+  .rectangle-12 {
+    width: 402px;
+    height: 250px;
+    margin-left: -150px;
+    align-items: center;
+  }
+  .rectangle-13 {
+    width: 400px;
+    height: 250px;
+    margin-right: 1600px;
+  }
+  .flex-wrapper-twelve {
+    margin-bottom: 98px;
+    padding: 0 0 0 146px;
+    display: flex;
+    align-items: flex-start;
+  }
+  .forma {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .forma:not(:last-of-type) {
+    margin-right: 193px;
+  }
+  .flex-wrapper-two {
+    background-color: peachpuff;
+    margin-bottom: 24px;
+    border-radius: 12px;
+    position: relative;
+    border: 2px solid black;
+  }
+  .imja {
+    height: 38px;
+    width: 187px;
+    color: black;
+    display: flex;
+    align-items: center;
+    right: 0;
+    top: -2px;
+    
+    
+  }
+  .flex-wrapper-five {
+    background-color: #006400;
+    margin-left: 60px;
+    border-radius: 12px;
+    
+    
+    
+    
+  }
+  .otpravit {
+    height: 38px;
+    width: 130px;
+    color: white;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    
+    
+  }
+  .tak-zhe-vy-mozhete-svjazatsja-so-mnoj-cherez {
+    height: 86px;
+    width: 295px;
+    color: black;
+    display: flex;
+    align-items: center;
+    margin-bottom: 48px;
+    
+  }
+  .vk-logo-1 {
+    width: 65px;
+    height: 65px;
+    margin-right: 30px;
+  }
+  .vk-logo-1:not(:last-of-type) {
+    margin-right: 26px;
+  }
+  .telegram-logo-1 {
+    width: 65px;
+    height: 65px;
+   margin-right: 30px;
+  }
+  .flex-wrapper-ten {
+    background-color:#012008;
+    display: flex;
+    align-items: center;
+    right: -50px;
+    top: 0;
+    margin-left: -750px;
+    margin-right: -800px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    
+  }
+  .num-7-953-133-42-44 {
+    height: 45px;
+    width: 222px;
+    color: peachpuff;
+    display: flex;
+    align-items: center;
+    margin-left: 1300px;
+    
+  }
+  .email-ru {
+    height: 45px;
+    width: 172px;
+    color: peachpuff;
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+  }
+  .flex-wrapper-seven {
+    background-color:#012008;
+
+    display: flex;
+    align-items: center;
+    position: absolute;
+    right: -50px;
+    top: 0;
+    margin-right: 50px;
+    width: 100%;
+    
+  }
+  
+  
+  .glavnaja {
+    height: 27px;
+    width: 109px;
+    color: white;
+    display: flex;
+    
+  }
+ 
+  
+  .uslugi {
+    height: 270px;
+    width: 860px;
+    color: white;
+    display: flex;
+    margin-right: 27px;
+  }
+  .name{
+    background-color: #01360d;
+    border-radius: 12px;
+    color: white;
+    height:25px ;
+    width: 200px;
+    
+  }
+  ::placeholder{
+    color:white
+  }
+  
+  .tlepon{
+    background-color: #01360d;
+    border-radius: 12px;
+    color: white;
+    height:25px ;
+    width: 200px;
+    
+  }
+  ::placeholder{
+    color:white
+  }
+  
+  .pozta{
+    background-color: #01360d;
+    border-radius: 12px;
+    color: white;
+    height:25px ;
+    width: 200px;
+    
+}
+::placeholder{
+  color:white
+}
+.otpravint{
+    background-color: #01360d;
+  border-radius: 12px;
+  color: white;
+}
+
+
+.kontakty {
+  height: 50px;
+  width: 247px;
+  color: black;
+  display: flex;
+  align-items: center;
+  margin-bottom: 118px;
+  margin-left: 377px;
+  flex-direction: column;
+  font-size: 50px;
+}
+.logo{
+  display: flex;
+
+  width: 100%;
+	justify-content: space-around;
+	align-items: center;
+	align-content: center;
+  
+  
+
+  }
+.luba{
+  display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: stretch;
+	align-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.foter{
+  width: 100%;
+  height: 120px;
+  background: white;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  display: inline-flex
+}
+.ramka{
+  align-self: stretch;
+  height: 120px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 90px;
+  padding-right: 90px;
+  background: #012008;
+  border-bottom: 3px white solid;
+  justify-content: center;
+  align-items: center;
+  display: inline-flex
+}
+.ramkavnytri{
+  flex: 1 1 0;
+  align-self: stretch;
+  padding: 15px;
+  border-radius: 15px;
+  justify-content: space-between;
+  align-items: center;
+  display: inline-flex
+}
+.logo{
+  width: 68px;
+  height: 49px;
+  border-radius: 1px
+}
+.ramkacentr{
+  height: 50px;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 20px;
+  display: flex
+}
+.headerobomne{
+  text-align: center;
+  color: white;
+   font-size: 20px;
+  font-family: Itim;
+  font-weight: 400;
+  line-height: 50px;
+  word-wrap: break-word;
+  text-decoration: none;
+}
+.headermyzn{
+  color: white;
+   font-size: 20px;
+   font-family: Itim;
+   font-weight: 400;
+   line-height: 50px;
+   word-wrap: break-word;
+   text-decoration: none;
+}
+.headerportfolio{
+  color: white;
+   font-size: 20px;
+   font-family: Itim;
+   font-weight: 400;
+   line-height: 50px;
+   word-wrap: break-word;
+   text-decoration: none;
+}
+
+.headercvizcomnoi{
+  color: white;
+   font-size: 20px;
+   font-family: Itim;
+   font-weight: 400;
+   line-height: 50px;
+   word-wrap: break-word;
+   text-decoration: none;
+}
